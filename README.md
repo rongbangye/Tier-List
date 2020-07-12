@@ -7,3 +7,5 @@ A simple **dynamic** Tier List web app build with vanilla JavaScript along with 
 - planning to add more features: 
   - implement login/sign up to save data in the backend
   - create multiple tier-list 
+
+**View Live:** https://rongbangye.github.io/Tier-List/
